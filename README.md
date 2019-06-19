@@ -6,6 +6,14 @@ Current file types:
 
 Excel: Reads in and projects column data, coverts to .txt files for use elsewhere
 
+HDF:
+
 Json: Reads in and projects, saves as .txt files
+
+REMA(tiff): TBD
+
+Txt:
+
+
 
 
