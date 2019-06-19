@@ -5,6 +5,7 @@ Focus mostly on polar stereographic projections.
 Current file types:
 
 Excel: Reads in and projects column data, coverts to .txt files for use elsewhere
+
 Json: Reads in and projects, saves as .txt files
 
 
